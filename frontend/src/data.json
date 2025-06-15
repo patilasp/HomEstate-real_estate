@@ -1,0 +1,18 @@
+{
+    "Mumbai": {
+      "PG": [
+        { "id": 1, "name": "Luxury PG", "price": 5000, "location": "Bandra" },
+        { "id": 2, "name": "Affordable PG", "price": 3000, "location": "Andheri" }
+      ],
+      "Rent": [],
+      "Flats": [],
+      "Plots": []
+    },
+    "Pune": {
+      "PG": [],
+      "Rent": [],
+      "Flats": [],
+      "Plots": []
+    }
+  }
+  
